@@ -1,5 +1,7 @@
 # Visuomotor_Control_Tasks
-A series of fine motor control tasks for Psychology and Cognitive Neuroscience research. This also includes preprocessing scripts for all outputted data. Please consider citing my research if you use these scripts in an academic setting. 
+A series of fine motor control tasks for Psychology and Cognitive Neuroscience research. The scripts are currently adapted to include delays of different magnitudes and structures, but can be easily omitted through setting the delay to zero. 
+
+This also includes preprocessing scripts for all outputted data. Please consider citing my research if you use these scripts in an academic setting. 
 
 To run these scripts you will need to download Psychtoolbox seperately - https://psychtoolbox.org/ 
 
